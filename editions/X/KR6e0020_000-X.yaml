@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0020/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經疏注
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X07/X07n0234.xml
+    old_id: X07n0234
+hash: sha256:ea80ec172575eb46227a3b588226cdc5d030ef2211a26b0a7b846c25eddebbba
